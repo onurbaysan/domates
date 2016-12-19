@@ -1,0 +1,15 @@
+{
+  "name"    : "Domates",
+  "version" : "0.1.0",
+  "main"    : "main.js",
+  "author": 
+  {
+    "name": "Onur Baysan",
+    "email": "onurbaysan@gmail.com",
+    "url": "https://github.com/onurbaysan"
+  },
+  "scripts": 
+  {
+        "start": "electron ."
+  } 
+}

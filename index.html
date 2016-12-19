@@ -1,0 +1,12 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<h1 id="timeStr" class="center"></h1>
+
+<script>
+	var myVar = setInterval(myTimer, 1000);
+
+	function myTimer() {
+	    var d = new Date();
+	    document.getElementById("timeStr").innerHTML = d.toLocaleTimeString();
+	}
+</script>
