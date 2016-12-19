@@ -1,2 +1,3 @@
-# domates
-# domates
+# Domates
+
+Pomodoro app built with electron
